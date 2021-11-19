@@ -1,0 +1,5 @@
+{
+    "tableName": "HealthData",
+    "partitionKeyName": "Zorgverlener",
+    "partitionKeyType": "N"
+}

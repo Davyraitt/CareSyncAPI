@@ -1,0 +1,23 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-caresyncapi-prod-175641-authRole",
+      "UnauthRoleArn": "arn:aws:iam::823124742693:role/amplify-caresyncapi-prod-175641-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::823124742693:role/amplify-caresyncapi-prod-175641-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-caresyncapi-prod-175641-deployment",
+      "UnauthRoleName": "amplify-caresyncapi-prod-175641-unauthRole",
+      "StackName": "amplify-caresyncapi-prod-175641",
+      "StackId": "arn:aws:cloudformation:eu-west-1:823124742693:stack/amplify-caresyncapi-prod-175641/57eb38a0-47c7-11ec-9f45-0afebac6afcd",
+      "AmplifyAppId": "d31y0hj9er8b"
+    },
+    "categories": {
+      "function": {
+        "CareSyncFunction": {
+          "deploymentBucketName": "amplify-caresyncapi-prod-175641-deployment",
+          "s3Key": "amplify-builds/CareSyncFunction-6534554436586f57314c-build.zip"
+        }
+      }
+    }
+  }
+}
